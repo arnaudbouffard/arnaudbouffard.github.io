@@ -1,24 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Online!"
 date:   2014-04-24 10:39:13
-categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Last thursday, I decided on a whim to join the current Le Wagon season. For the last year I've spent some time learning about different web technologies, what each of them are used for and how they relate to each other. I now know stuff about html, css, js, coffeescript, ruby, jquery, d3.js, three.js and webGL. But I recently figured out that wasn't **enough** to build some prototypes for the different projects I am currently working on.
